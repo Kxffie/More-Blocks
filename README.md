@@ -9,6 +9,10 @@ Get More Bang for Your Buck!
 No more wasted wood with these crafting recipes:
 Get more trapdoors, stairs, and wood!
 
+![Stairs](https://cdn.modrinth.com/data/CayfySyq/images/2000f78c5bf6d15d075096422a4c7d0e31d0a910.png)
+![Trapdoors](https://cdn.modrinth.com/data/CayfySyq/images/eea601dbe5a4e452d6f0e0a79c38fa18fb9a35c7.png)
+![Wood](https://cdn.modrinth.com/data/CayfySyq/images/3265a57b837ec90addf46c15257092a40313666d.png)
+
 You can find this datapack/mod at https://modrinth.com/datapack/more-blocks
 
 # [Checkout my other work!](https://modrinth.com/user/kxffie)
